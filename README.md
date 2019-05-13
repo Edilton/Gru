@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/IFAP/Gru.svg?branch=master)](https://travis-ci.org/IFAP/Gru)
+[![Build Status](https://travis-ci.org/Edilton/Gru.svg?branch=master)](https://travis-ci.org/IFAP/Gru)
 
 # Gru
 Lê um arquivo txt enviado pelo SIAFI
