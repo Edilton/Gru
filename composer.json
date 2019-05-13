@@ -1,0 +1,22 @@
+{
+    "name": "ifap/gru",
+    "description": "Lê e retorna os dados do arquivo de retorno do Guia de Recolhimento da União",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edilton",
+            "email": "ediltondanniken@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {  
+        "psr-4": { "Gru\\": "src/"},
+        "classmap": [
+            "tests"
+        ]
+    },
+    "minimum-stability": "dev"
+
+}
