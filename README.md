@@ -9,7 +9,7 @@ Lê um arquivo txt enviado pelo SIAFI
 *Instalação*
 
 
-`$ composer require ifap/gru dev-master`
+`$ composer require edilton/gru dev-master`
 
 
 *Lendo o arquivo*
