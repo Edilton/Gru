@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "phpunit/phpunit": "~4.0"
+        "phpunit/phpunit": "~5.6"
     },
     "autoload": {  
         "psr-4": { "Gru\\": "src/"},
